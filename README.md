@@ -1,4 +1,7 @@
 # merry_gitmas
 Gitmas Tutorial
 
-Authors - Olga, Thomas
+
+Authors - Olga, Lucy, Thomas
+
+
